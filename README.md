@@ -1,5 +1,8 @@
 # 📈 Sales Dashboard (2015–2018) - Tableau Project
 
+![Screenshot 2025-05-16 211040](https://github.com/user-attachments/assets/8c00b66b-bfe5-4bad-bd70-803d0dd6faa4)
+
+
 This repository features an interactive **Sales Dashboard built using Tableau**, showcasing sales data from **2015 to 2018**. The project provides valuable insights for business stakeholders to understand trends, optimize product strategy, and monitor performance.
 
 ---
@@ -53,8 +56,8 @@ This Tableau dashboard was developed to visually explore and analyze key busines
 
 
 📈 Use Cases
-●Business Sales Review
-●Product Performance Tracking
-●Customer Segment Analysis
-●Profitability Monitoring
+●Business Sales Review <br>
+●Product Performance Tracking <br>
+●Customer Segment Analysis <br>
+●Profitability Monitoring <br>
 ●Strategic Business Reporting
